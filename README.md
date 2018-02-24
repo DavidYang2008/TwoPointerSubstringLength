@@ -1,4 +1,4 @@
-# Use 2 pointer and Hash Table to find the longest substring without repeating characters in O(n) time
+# Use 2 pointers and Hash Table to find the longest substring without repeating characters in O(n) time
 
 ## Problem to solve
 Given a string, find the length of the longest substring without repeating characters.
